@@ -21,3 +21,10 @@ header ul {
     font-size: 25px;
     gap: 20px;
 }
+
+footer{
+    background-color: chartreuse;
+    text-align: center;
+    padding: 20px;
+    text-decoration: underline;
+}
